@@ -1,12 +1,9 @@
-<h1 align="center">
-<div style="display: flex; justify-content: center">   
+<div align="center">   
+<h1>
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=450&lines=HI+THERE%2C+I'M+DANIEL!+%F0%9F%91%8B%F0%9F%8F%BB;FRONT-END+DEVELOPER+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;NICE+TO+MEET+YOU!+%F0%9F%98%84">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
-</div>
 </h1>
-
-<div align="center">
 
 ## 📱 How to reach me
 
@@ -16,12 +13,8 @@
 <a href="https://www.instagram.com/danielglez94/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://t.me/danyglez94"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"></a>
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
-</div>
-
-<div align="center">
 
 ## 🛠 Technologies and tools I use
-
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
@@ -36,23 +29,30 @@
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
-</div>
 
 
 ## 📊 Stats
-
 ![Profile Views](https://komarev.com/ghpvc/?username=danyglez94)
-<details>
-<summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![DanyGlez94 Github Stats](https://github-readme-stats.vercel.app/api?username=danyglez94&theme=tokyonight)](https://github.com/danyglez94/github-readme-stats) 
-</details>
+<table style="text-align:center">
+<tr>
+<th> ⚡ GitHub Stats </th>
+<th> ⚡ Wakatime Stats </th>
+</tr>
+<tr>
+<td>
 
-<details>
-<summary>&#9889 <b>Wakatime Stats</b></summary><br/>
+[![DanyGlez94 Github Stats](https://github-readme-stats.vercel.app/api?username=danyglez94&theme=tokyonight)](https://github.com/danyglez94/github-readme-stats)
+</td>
+<td>
 
 [![DanyGlez94's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanyGlez94&theme=tokyonight&layout=compact&custom_title=Daniel+Gonzalez's+Wakatime+Stats)](https://github.com/danyglez94/github-readme-stats)
+</td>
+</tr>
+</table>
+
 </details>
+</div>
 
 
 ---
@@ -61,7 +61,7 @@
 
 _If you like my projects, give them ⭐ to show some ❤️_
 <br>
-🎯 _You miss **100%** of the shots you don'take._
+🎯 _You miss **100%** of the shots you don't take._
 <br>
 
 ---
