@@ -6,7 +6,7 @@
 </div>
 </h1>
 
-## 📱 Socials
+## 📱 How to reach me
 <a href="https://www.linkedin.com/in/danyglez94/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/DanielGlezH94/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/DanielGlez94"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
@@ -14,7 +14,7 @@
 <a href="https://t.me/danyglez94"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"></a>
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
 
-## 🛠 Technologies
+## 🛠 Technologies and tools I use
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
@@ -31,6 +31,8 @@
 ![Console](https://img.icons8.com/color/30/console.png)
 
 ## 📊 Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=danyglez94)
 <details>
 <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
@@ -43,9 +45,17 @@
 [![DanyGlez94's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanyGlez94&theme=tokyonight&layout=compact&custom_title=Daniel+Gonzalez's+Wakatime+Stats)](https://github.com/danyglez94/github-readme-stats)
 </details>
 
+
 ---
 <div align="center">
+<img alt="GIF" src="./img/rocks.gif" style="width:500px;" />
 
-Made with 💙 by **Daniel González**.
+_If you like my projects, give them ⭐ to show some ❤️_
+<br>
+🎯 _You miss **100%** of the shots you don'take._
+<br>
+
+---
+Made with ❤️ by **Daniel González**.
 
 </div>
