@@ -5,7 +5,7 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
 </h1>
 
-## 📱 How to reach me
+📱 **HOW TO REACH ME**
 
 <a href="https://www.linkedin.com/in/danyglez94/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/DanielGlezH94/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -14,7 +14,8 @@
 <a href="https://t.me/danyglez94"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"></a>
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
 
-## 🛠 Technologies and tools I use
+🛠 **TECHNOLOGIES AND TOOLS I USE**
+
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
@@ -31,7 +32,8 @@
 ![Console](https://img.icons8.com/color/30/console.png)
 
 
-## 📊 Stats
+📊 **STATS**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=danyglez94)
 
 <table style="text-align:center">
@@ -55,7 +57,6 @@
 </div>
 
 
----
 <div align="center">
 <img alt="GIF" src="./img/rocks.gif" style="width:500px;" />
 
