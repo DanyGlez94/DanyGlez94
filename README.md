@@ -4,8 +4,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=450&lines=HI+THERE%2C+I'M+DANIEL!+%F0%9F%91%8B%F0%9F%8F%BB;FRONT-END+DEVELOPER+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;NICE+TO+MEET+YOU!+%F0%9F%98%84">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
 </h1>
+</div>
+
+
+👨🏻‍💻 **ABOUT ME**
+
+I'm Daniel Gonzalez,**Industrial Engineer** and **Front-end Developer** from Mexico. Coding is my passion and what I like to do the most.
+- 📖 I love reading self-development books.
+- 🚀 Talk to me about crypto.
+- 🧠 I'm always learning about everything.
+- 🗣 I'm currently learning Russian.
+- 💪🏻 I love training.
+
+![Profile Views](https://komarev.com/ghpvc/?username=danyglez94)
+
 
 📱 **HOW TO REACH ME**
+
 
 <a href="https://www.linkedin.com/in/danyglez94/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/DanielGlezH94/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -34,12 +49,10 @@
 
 📊 **STATS**
 
-![Profile Views](https://komarev.com/ghpvc/?username=danyglez94)
-
 <table style="text-align:center">
 <tr>
-<th> ⚡ GitHub Stats </th>
-<th> ⚡ Wakatime Stats </th>
+<th> ⚡ GitHub </th>
+<th> ⚡ Wakatime </th>
 </tr>
 <tr>
 <td>
@@ -54,7 +67,6 @@
 </table>
 
 </details>
-</div>
 
 
 <div align="center">
