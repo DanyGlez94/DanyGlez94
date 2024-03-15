@@ -9,7 +9,7 @@
 
 👨🏻‍💻 **ABOUT ME**
 
-I'm Daniel Gonzalez,**Industrial Engineer** and **Front-end Developer** from Mexico. Coding is my passion and what I like to do the most.
+I'm Daniel Gonzalez,**Engineer** and **Front-end Developer** from Mexico. Coding is my passion and what I like to do the most.
 - 📖 I love reading self-development books.
 - 🚀 Talk to me about crypto.
 - 🧠 I'm always learning about everything.
