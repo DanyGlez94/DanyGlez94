@@ -28,20 +28,23 @@ Hey there! I'm Daniel Gonzalez, a **Javascript Software Engineer** from Mexico. 
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
+![SASS](https://img.icons8.com/color/30/sass.png)
+![Tailwind](https://img.icons8.com/color/30/tailwindcss.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![Typescript](https://img.icons8.com/color/30/typescript.png)
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![Redux](https://img.icons8.com/color/30/redux.png)
 ![NextJS](https://img.icons8.com/color/30/nextjs.png)
+![Redux](https://img.icons8.com/color/30/redux.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![Python](https://img.icons8.com/color/30/python.png)
+![Flask](https://img.icons8.com/color/30/flask.png)
+![Django](https://img.icons8.com/color/30/django.png)
+![Solidity](https://img.icons8.com/color/30/solidity.png)
 ![MySQL](https://img.icons8.com/color/30/mysql.png)
 ![MongoDB](https://img.icons8.com/color/30/mongodb.png)
-![SASS](https://img.icons8.com/color/30/sass.png)
-![Tailwind](https://img.icons8.com/color/30/tailwindcss.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
-![Solidity](https://img.icons8.com/color/30/solidity.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 ## 📊 **Stats**
@@ -59,7 +62,7 @@ Hey there! I'm Daniel Gonzalez, a **Javascript Software Engineer** from Mexico. 
     </td>
     <td>
       <a href="https://github.com/danyglez94/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DanyGlez94&theme=tokyonight&layout=compact&custom_title=Daniel+Gonzalez's+Wakatime+Stats" alt="DanyGlez94's wakatime stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DanyGlez94&theme=tokyonight&layout=compact&custom_title=Daniel+Gonzalez's+Wakatime+Stats&langs_count=10" alt="DanyGlez94's wakatime stats">
       </a>
     </td>
   </tr>
