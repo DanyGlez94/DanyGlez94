@@ -20,7 +20,7 @@ Hey there! I'm Daniel Gonzalez, a **Javascript Software Engineer** from Mexico. 
 
 <a href="https://www.linkedin.com/in/danyglez94/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/DanielGlezH94/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://twitter.com/DanielGlez94"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://x.com/DanielGlez94"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FDanielGlez94&label=(Twitter)" alt="X"></a>
 <a href="https://www.instagram.com/danielglez94/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://t.me/danyglez94"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"></a>
 
